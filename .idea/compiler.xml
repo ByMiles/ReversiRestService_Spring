@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="HelloGradle_main" target="1.8" />
       <module name="HelloGradle_test" target="1.8" />
+      <module name="ReversiRestService_Spring_main" target="1.8" />
+      <module name="ReversiRestService_Spring_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

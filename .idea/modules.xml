@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloGradle.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloGradle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloGradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloGradle_main.iml" group="HelloGradle" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloGradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloGradle_test.iml" group="HelloGradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReversiRestService_Spring.iml" filepath="$PROJECT_DIR$/.idea/modules/ReversiRestService_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReversiRestService_Spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ReversiRestService_Spring_main.iml" group="ReversiRestService_Spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReversiRestService_Spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ReversiRestService_Spring_test.iml" group="ReversiRestService_Spring" />
     </modules>
   </component>
 </project>
